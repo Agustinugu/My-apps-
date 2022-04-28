@@ -1,0 +1,15 @@
+body
+{text-align: center;
+background-color: #687d82;
+}
+h1
+{color: #225b9c;
+font-family: fantasy;
+font-size: medium;
+}
+.line
+{height: 6px;
+background-color:#c7d0d9 ;
+width:70px;
+margin:8px auto;
+}
